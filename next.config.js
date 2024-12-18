@@ -7,7 +7,10 @@ const nextConfig = {
   images: {
     domains: ['placeholder.com'],
   },
-}
+  webpack: (config) => {
+    config.resolve.alias['@'] = __dirname;
+    return config;
+  },
+};
 
-module.exports = nextConfig
-
+module.exports = nextConfig;
