@@ -30,6 +30,16 @@ const availableJobs = [
     closingDate: "2023-08-20",
     description: "Join our team as a Science Teacher and help cultivate curiosity and scientific thinking in our students."
   },
+  { 
+    id: 3, 
+    title: "Head of Platform", 
+    department: "IT Services",
+    location: "Bolton",
+    type: "Full-time",
+    salary: "£28,000 - £42,000",
+    closingDate: "2023-08-20",
+    description: "Join our team as a Science Teacher and help cultivate curiosity and scientific thinking in our students."
+  },
   // ... (other job listings)
 ]
 
