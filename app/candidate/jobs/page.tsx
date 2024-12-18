@@ -12,7 +12,7 @@ import { Search } from 'lucide-react'
 const availableJobs = [
   { 
     id: 1, 
-    title: "Math Teacher", 
+    title: "Maths Teacher", 
     department: "Education",
     location: "London",
     type: "Full-time",
