@@ -17,7 +17,7 @@ const availableJobs = [
     logo: "/placeholder.svg?height=100&width=100", 
     startDate: "2023-09-01", 
     applyByDate: "2023-07-15",
-    location: "London",
+    location: "Bolton",
     department: "Education",
     description: "We are seeking an enthusiastic Math Teacher to inspire and educate our students. The ideal candidate will have a passion for mathematics and the ability to make complex concepts accessible to learners of all levels."
   },
